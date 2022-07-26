@@ -10,6 +10,8 @@ my written expression practices
 
 [philosophy](./philosophy.md) 哲学抽象理论
 
+[history](./history.md) 历史的细节
+
 [writing-notes](./writing-notes.md) 表达用的素材
 
 [feelings](./feelings.md) 个人化的情绪感想、琐事
