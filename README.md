@@ -2,7 +2,7 @@
 
 my written expression practices
 
-(如果你有 GitHub 账号，可以在当前页面点击键盘上的 . 来等入 VScode 网页版查看源文件)
+(如果你有 GitHub 账号，可以在当前页面点击键盘上的 . 来登陆 VScode 网页版查看源文件)
 
 [living](./living.md) 日常生活相关的长期话题，如教育、人际相处、某种观点。越贴近生活，越复杂，解读角度很多，值得在时间长河里面反复咀嚼。
 
