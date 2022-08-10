@@ -2,11 +2,16 @@
 
 ## 资料汇总
 
-基础知识点：https://www.runoob.com/go/go-data-types.html
+- 教程
 Go 入门教程 | Laravel 学院  https://laravelacademy.org/books/golang-tutorials
 Go语言入门教程，Golang入门教程（非常详细）  http://c.biancheng.net/golang/
 
+- 查询手册：
+基础知识点：https://www.runoob.com/go/go-data-types.html
 官网API文档：https://pkg.go.dev/
+
+- 工程实践
+《GO 命令教程》 - 书栈网 · BookStack  https://www.bookstack.cn/books/go_command_tutorial
 
 golang-standards/project-layout: Standard Go Project Layout  https://github.com/golang-standards/project-layout
 
