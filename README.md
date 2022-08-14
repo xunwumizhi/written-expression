@@ -18,6 +18,6 @@ my written expression practices
 
 [writing-notes](./writing-notes.md) 表达用的素材
 
-[feelings](./feelings.md) 个人化的情绪感想、琐事
+[feelings](./feelings.md) 一些情绪、感想、琐事（不完全是我自己的）
 
 [reading-notes](./reading-notes.md) 读书笔记
