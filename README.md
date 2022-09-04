@@ -16,7 +16,11 @@ my written expression practices
 
 [history](./history.md) 历史的细节
 
+[biography](./biography.md) 人物传记
+
 [writing-notes](./writing-notes.md) 表达用的素材
+
+[poetry](./poetry.md) 诗歌
 
 [feelings](./feelings.md) 一些情绪、感想、琐事（不完全是我自己的）
 
